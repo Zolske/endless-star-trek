@@ -1,0 +1,7 @@
+Templates/Klingon/
+1 Colony	KlingonShipColony/	KlingonShipColony/KlingonShipColonySmall	KlingonShipColony/KlingonShipColonyLarge
+2 B'Rel		KlingonShipBRel/	KlingonShipBRel/KlingonShipBRelSmall		KlingonShipBRel/KlingonShipBRelLarge
+3 K'Vort	KlingonShipKVort/	KlingonShipKVort/KlingonShipKVortSmall		KlingonShipKVort/KlingonShipKVortLarge
+4 Vorcha	KlingonShipVorcha/	KlingonShipVorcha/KlingonShipVorchaSmall	KlingonShipVorcha/KlingonShipVorchaLarge
+5 N'Kal		KlingonShipNKal/	KlingonShipNKal/KlingonShipNKalSmall		KlingonShipNKal/KlingonShipNKalLarge
+6 Neghvar	KlingonShipNeghvar/	KlingonShipNeghvar/KlingonShipNeghvarSmall	KlingonShipNeghvar/KlingonShipNeghvarLarge

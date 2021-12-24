@@ -1,0 +1,173 @@
+# Blender MTL File: 'None'
+# Material Count: 16
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdMisc_glow.jpg
+map_d WarBirdMisc_glow.jpg
+
+newmtl Material.00010b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdMisc_glow.jpg
+map_d WarBirdMisc_glow.jpg
+
+newmtl Material.000215
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdHead_glow.jpg
+map_d WarBirdHead_glow.jpg
+
+newmtl Material.000405
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdMisc_glow.jpg
+map_d WarBirdMisc_glow.jpg
+
+newmtl Material.0007e6
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdHead_glow.jpg
+map_d WarBirdHead_glow.jpg
+
+newmtl Material.000808
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdMisc_glow.jpg
+map_d WarBirdMisc_glow.jpg
+
+newmtl Material.000adc
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdBottomWing.jpg
+
+newmtl Material.000cfc
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdHead_glow.jpg
+map_d WarBirdHead_glow.jpg
+
+newmtl Material.000d23
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdMisc_glow.jpg
+map_d WarBirdMisc_glow.jpg
+
+newmtl Material.000ff3
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdBottomWing.jpg
+
+newmtl Material.001029
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdTopWing.jpg
+
+newmtl Material.00106d
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdHead_glow.jpg
+map_d WarBirdHead_glow.jpg
+
+newmtl Material.0010fa
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdTopWing.jpg
+
+newmtl Material.001186
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdHead_glow.jpg
+map_d WarBirdHead_glow.jpg
+
+newmtl Material.0011ad
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdTopWing.jpg
+
+newmtl Material.001239
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WarBirdHead_glow.jpg
+map_d WarBirdHead_glow.jpg

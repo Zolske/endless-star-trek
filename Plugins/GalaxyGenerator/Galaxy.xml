@@ -1,0 +1,759 @@
+﻿<GenerationOutput>
+  <GeneratorVersion Revision="109" Date="20120828" />
+  <CrossCheckingSettings>
+    <GalaxyShape>GalaxyDisk</GalaxyShape>
+    <GalaxySize>GalaxySizeTiny</GalaxySize>
+    <EmpiresNumber>2</EmpiresNumber>
+    <GalaxyAge>GalaxyAgeNormal</GalaxyAge>
+    <StarPopulationsBalancing>BalancedAverage</StarPopulationsBalancing>
+    <GalaxyDensity>GalaxyDensityMedium</GalaxyDensity>
+    <StarConnectivity>StarConnectivityAverage</StarConnectivity>
+    <ConstellationNumber>ConstellationNumberFew</ConstellationNumber>
+    <ConstellationConnectivity>ConstellationConnectivityAverage</ConstellationConnectivity>
+    <ConstellationDistance>ConstellationDistanceAverage</ConstellationDistance>
+    <PlanetsPerSystem>PlanetsPerSystemNormal</PlanetsPerSystem>
+    <PlanetsSizeFactor>PlanetsSizeFactorNormal</PlanetsSizeFactor>
+    <ResourceRepartitionFactor>ResourceRepartitionFactorNormal</ResourceRepartitionFactor>
+    <Seed>985239999</Seed>
+  </CrossCheckingSettings>
+  <Dimensions>
+    <Size X="39.3259086608887" Y="0" Z="41.8530941009521" />
+    <Bounds MaxX="21.4258842468262" MaxY="0" MaxZ="19.6225261688232" MinX="-17.9000244140625" MinY="0" MinZ="-22.2305679321289" />
+  </Dimensions>
+  <Empires>
+    <Home System="6" />
+    <Home System="4" />
+  </Empires>
+  <Regions>
+    <Region Color="Red=255 Green=0 Blue=255" NumStars="2" />
+    <Region Color="Red=0 Green=0 Blue=255" NumStars="2" />
+    <Region Color="Red=0 Green=255 Blue=0" NumStars="4" />
+    <Region Color="Red=0 Green=128 Blue=128" NumStars="2" />
+    <Region Color="Red=0 Green=255 Blue=255" NumStars="2" />
+    <Region Color="Red=255 Green=0 Blue=0" NumStars="2" />
+    <Region Color="Red=128 Green=0 Blue=128" NumStars="2" />
+  </Regions>
+  <Constellations>
+    <Constellation Name="%ConstellationName12" Id="0" Population="11" />
+    <Constellation Name="%ConstellationName25" Id="1" Population="7" />
+  </Constellations>
+  <Population>16</Population>
+  <Systems>
+    <System Constellation="1" Name="%StarName109" Type="StarTypeProtostar" Id="0" X="17.73072" Y="0" Z="15.14884">
+      <Region Red="255" Green="0" Blue="255" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeHuge" Type="PlanetTypeGasHelium">
+          <Anomalies>PlanetAnomaly53</Anomalies>
+          <Moons>
+            <Moon Temple="Temple09" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceQuadrinite" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeLarge" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly46</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeLarge" Type="PlanetTypeArctic">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury11" Size="3" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeHuge" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly19</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceHexaferrum" Size="1" />
+        </Planet>
+        <Planet Orbit="4" Size="PlanetSizeHuge" Type="PlanetTypeJungle">
+          <Anomalies>PlanetAnomaly21</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceHyperium" Size="1" />
+        </Planet>
+        <Planet Orbit="5" Size="PlanetSizeMedium" Type="PlanetTypeArid">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceTitanium" Size="2" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="1" Name="%StarName219" Type="StarTypeBlue" Id="1" X="11.13232" Y="0" Z="2.741699">
+      <Region Red="255" Green="0" Blue="255" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeOcean">
+          <Anomalies>PlanetAnomaly13</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceTitanium" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeMedium" Type="PlanetTypeJungle">
+          <Anomalies>PlanetAnomaly03</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceAnti-Matter" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeLarge" Type="PlanetTypeDesert">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceAdamantium" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeLarge" Type="PlanetTypeArctic">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceSiderite" Size="1" />
+        </Planet>
+        <Planet Orbit="4" Size="PlanetSizeMedium" Type="PlanetTypeArid">
+          <Anomalies>PlanetAnomaly35</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceOrichalcedon" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="1" Name="%StarName149" Type="StarTypeRedSupergiant" Id="2" X="17.316" Y="0" Z="-10.39517">
+      <Region Red="0" Green="0" Blue="255" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeAsteroids">
+          <Anomalies>PlanetAnomaly50</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceAdamantium" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeMedium" Type="PlanetTypeTundra">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury4" Size="3" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeSmall" Type="PlanetTypeArctic">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeSmall" Type="PlanetTypeBarren">
+          <Anomalies>PlanetAnomaly23</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury11" Size="2" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName206" Type="StarTypeWhiteDwarf" Id="3" X="-3.105692" Y="0" Z="-10.35304">
+      <Region Red="0" Green="255" Blue="0" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeSmall" Type="PlanetTypeTerran">
+          <Anomalies>PlanetAnomaly25</Anomalies>
+          <Moons>
+            <Moon Temple="Temple14" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceAnti-Matter" Size="2" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeLarge" Type="PlanetTypeOcean">
+          <Anomalies>PlanetAnomaly03</Anomalies>
+          <Moons>
+            <Moon Temple="Temple15" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury4" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeLarge" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons />
+          <Resources />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeLarge" Type="PlanetTypeGasMethane">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceAdamantium" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName69" Type="StarTypeBlue" Id="4" X="-8.789602" Y="0" Z="-6.388605">
+      <Region Red="0" Green="128" Blue="128" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeTundra">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceSiderite" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeLarge" Type="PlanetTypeBarren">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury6" Size="2" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeMedium" Type="PlanetTypeArctic">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceAnti-Matter" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeMedium" Type="PlanetTypeArid">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceHyperium" Size="1" />
+        </Planet>
+        <Planet Orbit="4" Size="PlanetSizeMedium" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceHexaferrum" Size="1" />
+        </Planet>
+        <Planet Orbit="5" Size="PlanetSizeSmall" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury6" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName52" Type="StarTypeBlue" Id="5" X="-12.22645" Y="0" Z="-15.39493">
+      <Region Red="0" Green="255" Blue="0" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeHuge" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly17</Anomalies>
+          <Moons>
+            <Moon Temple="Temple14" />
+          </Moons>
+          <Resources />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName94" Type="StarTypeProtostar" Id="6" X="7.442581" Y="0" Z="-12.97738">
+      <Region Red="0" Green="255" Blue="255" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeOcean">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceAnti-Matter" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeMedium" Type="PlanetTypeArctic">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceHexaferrum" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeTiny" Type="PlanetTypeTundra">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury4" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeMedium" Type="PlanetTypeDesert">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="Temple09" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceSiderite" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="1" Name="%StarName209" Type="StarTypeRedSupergiant" Id="7" X="21.42588" Y="0" Z="-6.10499">
+      <Region Red="0" Green="0" Blue="255" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeLarge" Type="PlanetTypeTundra">
+          <Anomalies>PlanetAnomaly52</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury4" Size="2" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeSmall" Type="PlanetTypeBarren">
+          <Anomalies>PlanetAnomaly16</Anomalies>
+          <Moons />
+          <Resources />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeSmall" Type="PlanetTypeArid">
+          <Anomalies>PlanetAnomaly09</Anomalies>
+          <Moons>
+            <Moon Temple="Temple13" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceTitanium" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeLarge" Type="PlanetTypeGasMethane">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceQuadrinite" Size="1" />
+        </Planet>
+        <Planet Orbit="4" Size="PlanetSizeMedium" Type="PlanetTypeAsteroids">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury11" Size="2" />
+        </Planet>
+        <Planet Orbit="5" Size="PlanetSizeLarge" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly15</Anomalies>
+          <Moons>
+            <Moon Temple="Temple15" />
+          </Moons>
+          <Resources />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="1" Name="%StarName201" Type="StarTypeProtostar" Id="8" X="2.639" Y="0" Z="19.62253">
+      <Region Red="255" Green="0" Blue="0" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeLarge" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceHexaferrum" Size="2" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeMedium" Type="PlanetTypeGasMethane">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury13" Size="2" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeHuge" Type="PlanetTypeGasHydrogen">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="Temple03" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury13" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeLarge" Type="PlanetTypeBarren">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury6" Size="1" />
+        </Planet>
+        <Planet Orbit="4" Size="PlanetSizeSmall" Type="PlanetTypeDesert">
+          <Anomalies>PlanetAnomaly11</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury13" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName193" Type="StarTypeProtostar" Id="9" X="3.529362" Y="0" Z="-11.21546">
+      <Region Red="0" Green="255" Blue="255" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeAsteroids">
+          <Anomalies>PlanetAnomaly22</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceQuadrinite" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeMedium" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly34</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceOrichalcedon" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeLarge" Type="PlanetTypeTundra">
+          <Anomalies>PlanetAnomaly47</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceTitanium" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeSmall" Type="PlanetTypeArid">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceHyperium" Size="2" />
+        </Planet>
+        <Planet Orbit="4" Size="PlanetSizeTiny" Type="PlanetTypeOcean">
+          <Anomalies>PlanetAnomaly36</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceHyperium" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName125" Type="StarTypeDouble" Id="10" X="-6.393442" Y="0" Z="-22.23057">
+      <Region Red="0" Green="255" Blue="0" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeSmall" Type="PlanetTypeBarren">
+          <Anomalies>PlanetAnomaly49</Anomalies>
+          <Moons />
+          <Resources />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeMedium" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury6" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeLarge" Type="PlanetTypeTundra">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Luxury="PlanetLuxury6" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeTiny" Type="PlanetTypeAsteroids">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceAdamantium" Size="2" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName168" Type="StarTypeBlue" Id="11" X="-12.15294" Y="0" Z="2.24564">
+      <Region Red="128" Green="0" Blue="128" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeArid">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceHyperium" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeLarge" Type="PlanetTypeArid">
+          <Anomalies>PlanetAnomaly47</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceSiderite" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeTiny" Type="PlanetTypeJungle">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceTitanium" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeMedium" Type="PlanetTypeTundra">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceSiderite" Size="2" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="1" Name="%StarName190" Type="StarTypeBlue" Id="12" X="2.877251" Y="0" Z="10.3654">
+      <Region Red="255" Green="0" Blue="0" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeLarge" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly35</Anomalies>
+          <Moons />
+          <Resources Luxury="PlanetLuxury13" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeTiny" Type="PlanetTypeDesert">
+          <Anomalies>PlanetAnomaly29</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceAdamantium" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeLarge" Type="PlanetTypeAsteroids">
+          <Anomalies />
+          <Moons />
+          <Resources Luxury="PlanetLuxury13" Size="2" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName196" Type="StarTypeRedSupergiant" Id="13" X="-17.42823" Y="0" Z="5.571857">
+      <Region Red="128" Green="0" Blue="128" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeMedium" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly19</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeLarge" Type="PlanetTypeBarren">
+          <Anomalies>PlanetAnomaly29</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceOrichalcedon" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeTiny" Type="PlanetTypeJungle">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceAnti-Matter" Size="1" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeSmall" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly24</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceHexaferrum" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName203" Type="StarTypeProtostar" Id="14" X="-3.02669" Y="0" Z="-16.60669">
+      <Region Red="0" Green="255" Blue="0" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeHuge" Type="PlanetTypeGasHydrogen">
+          <Anomalies>PlanetAnomaly11</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceQuadrinite" Size="1" />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeLarge" Type="PlanetTypeGasHydrogen">
+          <Anomalies>PlanetAnomaly30</Anomalies>
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources Strategic="PlanetStrategicResourceQuadrinite" Size="2" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeTiny" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceOrichalcedon" Size="2" />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeSmall" Type="PlanetTypeDesert">
+          <Anomalies>PlanetAnomaly35</Anomalies>
+          <Moons />
+          <Resources />
+        </Planet>
+      </Planets>
+    </System>
+    <System Constellation="0" Name="%StarName100" Type="StarTypeWhiteDwarf" Id="15" X="-17.90002" Y="0" Z="-8.377453">
+      <Region Red="0" Green="128" Blue="128" />
+      <Planets>
+        <Planet Orbit="0" Size="PlanetSizeSmall" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly47</Anomalies>
+          <Moons>
+            <Moon Temple="Temple09" />
+          </Moons>
+          <Resources />
+        </Planet>
+        <Planet Orbit="1" Size="PlanetSizeTiny" Type="PlanetTypeLava">
+          <Anomalies>PlanetAnomaly48</Anomalies>
+          <Moons />
+          <Resources Luxury="PlanetLuxury6" Size="1" />
+        </Planet>
+        <Planet Orbit="2" Size="PlanetSizeSmall" Type="PlanetTypeLava">
+          <Anomalies />
+          <Moons>
+            <Moon Temple="NoTemple" />
+          </Moons>
+          <Resources />
+        </Planet>
+        <Planet Orbit="3" Size="PlanetSizeHuge" Type="PlanetTypeArctic">
+          <Anomalies>PlanetAnomaly49</Anomalies>
+          <Moons />
+          <Resources Strategic="PlanetStrategicResourceOrichalcedon" Size="1" />
+        </Planet>
+      </Planets>
+    </System>
+  </Systems>
+  <Warps>
+    <Warp System1="4" System2="3" />
+    <Warp System1="3" System2="5" />
+    <Warp System1="5" System2="4" />
+    <Warp System1="1" System2="2" />
+    <Warp System1="1" System2="0" />
+    <Warp System1="0" System2="7" />
+    <Warp System1="7" System2="1" />
+    <Warp System1="7" System2="2" />
+    <Warp System1="9" System2="3" />
+    <Warp System1="6" System2="9" />
+    <Warp System1="10" System2="6" />
+    <Warp System1="12" System2="1" />
+    <Warp System1="12" System2="0" />
+    <Warp System1="8" System2="0" />
+    <Warp System1="12" System2="8" />
+    <Warp System1="4" System2="11" />
+    <Warp System1="11" System2="13" />
+    <Warp System1="3" System2="14" />
+    <Warp System1="14" System2="5" />
+    <Warp System1="10" System2="5" />
+    <Warp System1="14" System2="10" />
+    <Warp System1="5" System2="15" />
+    <Warp System1="15" System2="4" />
+    <Warp System1="15" System2="11" />
+  </Warps>
+  <Wormholes>
+    <Wormhole System1="2" System2="6" />
+  </Wormholes>
+  <Statistics>
+    <StarTypes>
+      <StarTypeProtostar Quantity="5" />
+      <StarTypeBlue Quantity="5" />
+      <StarTypeRedSupergiant Quantity="3" />
+      <StarTypeWhiteDwarf Quantity="2" />
+      <StarTypeDouble Quantity="1" />
+    </StarTypes>
+    <PlanetPerSystem>
+      <Planets NumPlanets="6" NumSystems="3" />
+      <Planets NumPlanets="5" NumSystems="3" />
+      <Planets NumPlanets="4" NumSystems="8" />
+      <Planets NumPlanets="1" NumSystems="1" />
+      <Planets NumPlanets="3" NumSystems="1" />
+    </PlanetPerSystem>
+    <PlanetTypes>
+      <PlanetTypeGasHelium Quantity="1" />
+      <PlanetTypeLava Quantity="17" />
+      <PlanetTypeArctic Quantity="6" />
+      <PlanetTypeJungle Quantity="4" />
+      <PlanetTypeArid Quantity="7" />
+      <PlanetTypeOcean Quantity="4" />
+      <PlanetTypeDesert Quantity="5" />
+      <PlanetTypeAsteroids Quantity="5" />
+      <PlanetTypeTundra Quantity="7" />
+      <PlanetTypeBarren Quantity="6" />
+      <PlanetTypeTerran Quantity="1" />
+      <PlanetTypeGasMethane Quantity="3" />
+      <PlanetTypeGasHydrogen Quantity="3" />
+    </PlanetTypes>
+    <Anomalies>
+      <PlanetAnomaly53 Quantity="1" />
+      <PlanetAnomaly46 Quantity="1" />
+      <NoAnomaly Quantity="35" />
+      <PlanetAnomaly19 Quantity="2" />
+      <PlanetAnomaly21 Quantity="1" />
+      <PlanetAnomaly13 Quantity="1" />
+      <PlanetAnomaly03 Quantity="2" />
+      <PlanetAnomaly35 Quantity="3" />
+      <PlanetAnomaly50 Quantity="1" />
+      <PlanetAnomaly23 Quantity="1" />
+      <PlanetAnomaly25 Quantity="1" />
+      <PlanetAnomaly17 Quantity="1" />
+      <PlanetAnomaly52 Quantity="1" />
+      <PlanetAnomaly16 Quantity="1" />
+      <PlanetAnomaly09 Quantity="1" />
+      <PlanetAnomaly15 Quantity="1" />
+      <PlanetAnomaly11 Quantity="2" />
+      <PlanetAnomaly22 Quantity="1" />
+      <PlanetAnomaly34 Quantity="1" />
+      <PlanetAnomaly47 Quantity="3" />
+      <PlanetAnomaly36 Quantity="1" />
+      <PlanetAnomaly49 Quantity="2" />
+      <PlanetAnomaly29 Quantity="2" />
+      <PlanetAnomaly24 Quantity="1" />
+      <PlanetAnomaly30 Quantity="1" />
+      <PlanetAnomaly48 Quantity="1" />
+    </Anomalies>
+    <PlanetTypesAndSizes>
+      <PlanetSizeHuge-PlanetTypeArctic Quantity="1" />
+      <PlanetSizeHuge-PlanetTypeGasHelium Quantity="1" />
+      <PlanetSizeHuge-PlanetTypeGasHydrogen Quantity="2" />
+      <PlanetSizeHuge-PlanetTypeJungle Quantity="1" />
+      <PlanetSizeHuge-PlanetTypeLava Quantity="2" />
+      <PlanetSizeLarge-PlanetTypeArctic Quantity="2" />
+      <PlanetSizeLarge-PlanetTypeArid Quantity="1" />
+      <PlanetSizeLarge-PlanetTypeAsteroids Quantity="1" />
+      <PlanetSizeLarge-PlanetTypeBarren Quantity="3" />
+      <PlanetSizeLarge-PlanetTypeDesert Quantity="1" />
+      <PlanetSizeLarge-PlanetTypeGasHydrogen Quantity="1" />
+      <PlanetSizeLarge-PlanetTypeGasMethane Quantity="2" />
+      <PlanetSizeLarge-PlanetTypeLava Quantity="5" />
+      <PlanetSizeLarge-PlanetTypeOcean Quantity="1" />
+      <PlanetSizeLarge-PlanetTypeTundra Quantity="3" />
+      <PlanetSizeMedium-PlanetTypeArctic Quantity="2" />
+      <PlanetSizeMedium-PlanetTypeArid Quantity="4" />
+      <PlanetSizeMedium-PlanetTypeAsteroids Quantity="3" />
+      <PlanetSizeMedium-PlanetTypeDesert Quantity="1" />
+      <PlanetSizeMedium-PlanetTypeGasMethane Quantity="1" />
+      <PlanetSizeMedium-PlanetTypeJungle Quantity="1" />
+      <PlanetSizeMedium-PlanetTypeLava Quantity="4" />
+      <PlanetSizeMedium-PlanetTypeOcean Quantity="2" />
+      <PlanetSizeMedium-PlanetTypeTundra Quantity="3" />
+      <PlanetSizeSmall-PlanetTypeArctic Quantity="1" />
+      <PlanetSizeSmall-PlanetTypeArid Quantity="2" />
+      <PlanetSizeSmall-PlanetTypeBarren Quantity="3" />
+      <PlanetSizeSmall-PlanetTypeDesert Quantity="2" />
+      <PlanetSizeSmall-PlanetTypeLava Quantity="4" />
+      <PlanetSizeSmall-PlanetTypeTerran Quantity="1" />
+      <PlanetSizeTiny-PlanetTypeAsteroids Quantity="1" />
+      <PlanetSizeTiny-PlanetTypeDesert Quantity="1" />
+      <PlanetSizeTiny-PlanetTypeJungle Quantity="2" />
+      <PlanetSizeTiny-PlanetTypeLava Quantity="2" />
+      <PlanetSizeTiny-PlanetTypeOcean Quantity="1" />
+      <PlanetSizeTiny-PlanetTypeTundra Quantity="1" />
+    </PlanetTypesAndSizes>
+    <Resources>
+      <PlanetStrategicResourceQuadrinite Size="1" System="0" />
+      <PlanetStrategicResourceQuadrinite Size="1" System="7" />
+      <PlanetStrategicResourceQuadrinite Size="1" System="9" />
+      <PlanetStrategicResourceQuadrinite Size="1" System="14" />
+      <PlanetStrategicResourceQuadrinite Size="2" System="14" />
+      <PlanetLuxury11 Size="3" System="0" />
+      <PlanetLuxury11 Size="2" System="2" />
+      <PlanetLuxury11 Size="2" System="7" />
+      <PlanetStrategicResourceHexaferrum Size="1" System="0" />
+      <PlanetStrategicResourceHexaferrum Size="1" System="4" />
+      <PlanetStrategicResourceHexaferrum Size="1" System="6" />
+      <PlanetStrategicResourceHexaferrum Size="2" System="8" />
+      <PlanetStrategicResourceHexaferrum Size="1" System="13" />
+      <PlanetStrategicResourceHyperium Size="1" System="0" />
+      <PlanetStrategicResourceHyperium Size="1" System="4" />
+      <PlanetStrategicResourceHyperium Size="2" System="9" />
+      <PlanetStrategicResourceHyperium Size="1" System="9" />
+      <PlanetStrategicResourceHyperium Size="1" System="11" />
+      <PlanetStrategicResourceTitanium Size="2" System="0" />
+      <PlanetStrategicResourceTitanium Size="1" System="1" />
+      <PlanetStrategicResourceTitanium Size="1" System="7" />
+      <PlanetStrategicResourceTitanium Size="1" System="9" />
+      <PlanetStrategicResourceTitanium Size="1" System="11" />
+      <PlanetStrategicResourceAnti-Matter Size="1" System="1" />
+      <PlanetStrategicResourceAnti-Matter Size="2" System="3" />
+      <PlanetStrategicResourceAnti-Matter Size="1" System="4" />
+      <PlanetStrategicResourceAnti-Matter Size="1" System="6" />
+      <PlanetStrategicResourceAnti-Matter Size="1" System="13" />
+      <PlanetStrategicResourceAdamantium Size="1" System="1" />
+      <PlanetStrategicResourceAdamantium Size="1" System="2" />
+      <PlanetStrategicResourceAdamantium Size="1" System="3" />
+      <PlanetStrategicResourceAdamantium Size="2" System="10" />
+      <PlanetStrategicResourceAdamantium Size="1" System="12" />
+      <PlanetStrategicResourceSiderite Size="1" System="1" />
+      <PlanetStrategicResourceSiderite Size="1" System="4" />
+      <PlanetStrategicResourceSiderite Size="1" System="6" />
+      <PlanetStrategicResourceSiderite Size="1" System="11" />
+      <PlanetStrategicResourceSiderite Size="2" System="11" />
+      <PlanetStrategicResourceOrichalcedon Size="1" System="1" />
+      <PlanetStrategicResourceOrichalcedon Size="1" System="9" />
+      <PlanetStrategicResourceOrichalcedon Size="1" System="13" />
+      <PlanetStrategicResourceOrichalcedon Size="2" System="14" />
+      <PlanetStrategicResourceOrichalcedon Size="1" System="15" />
+      <PlanetLuxury4 Size="3" System="2" />
+      <PlanetLuxury4 Size="1" System="3" />
+      <PlanetLuxury4 Size="1" System="6" />
+      <PlanetLuxury4 Size="2" System="7" />
+      <PlanetLuxury6 Size="2" System="4" />
+      <PlanetLuxury6 Size="1" System="4" />
+      <PlanetLuxury6 Size="1" System="8" />
+      <PlanetLuxury6 Size="1" System="10" />
+      <PlanetLuxury6 Size="1" System="10" />
+      <PlanetLuxury6 Size="1" System="15" />
+      <PlanetLuxury13 Size="2" System="8" />
+      <PlanetLuxury13 Size="1" System="8" />
+      <PlanetLuxury13 Size="1" System="8" />
+      <PlanetLuxury13 Size="1" System="12" />
+      <PlanetLuxury13 Size="2" System="12" />
+    </Resources>
+    <Temples>
+      <Temple09 Quantity="3" />
+      <NoTemple Quantity="25" />
+      <Temple14 Quantity="2" />
+      <Temple15 Quantity="2" />
+      <Temple13 Quantity="1" />
+      <Temple03 Quantity="1" />
+    </Temples>
+    <Connectivity AverageWarps="3.12" MinWarps="1" MaxWarps="5" MaxWormholes="1" />
+    <WarpCount>
+      <Warps NofWarps="4" NofStars="4" />
+      <Warps NofWarps="3" NofStars="8" />
+      <Warps NofWarps="5" NofStars="1" />
+      <Warps NofWarps="2" NofStars="2" />
+      <Warps NofWarps="1" NofStars="1" />
+    </WarpCount>
+    <GenerationDefects>
+      <Defect Builder="StarBuilder" Details="Predictable star population is insufficient for successful balancing" />
+      <Defect Builder="StrategicResourceBuilder" Details="Region Color [A=255, R=0, G=255, B=255] misses some strategic resource" />
+      <Defect Builder="StrategicResourceBuilder" Details="Region Color [A=255, R=0, G=128, B=128] misses some strategic resource" />
+      <Defect Builder="StrategicResourceBuilder" Details="Region Color [A=255, R=128, G=0, B=128] misses some strategic resource" />
+      <Defect Builder="StrategicResourceBuilder" Details="Region Color [A=255, R=0, G=0, B=255] misses some strategic resource" />
+      <Defect Builder="StrategicResourceBuilder" Details="Region Color [A=255, R=0, G=255, B=0] misses some strategic resource" />
+      <Defect Builder="StrategicResourceBuilder" Details="Region Color [A=255, R=255, G=0, B=0] misses some strategic resource" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury1 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury10 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury12 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury14 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury15 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury16 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury2 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury3 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury5 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury7 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury8 could not be spawned" />
+      <Defect Builder="LuxuryResourceBuilder" Details="PlanetLuxury9 could not be spawned" />
+    </GenerationDefects>
+  </Statistics>
+</GenerationOutput>

@@ -1,0 +1,90 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv2e3_glow.jpg
+map_d kv2e3_glow.jpg
+
+newmtl Material.00006b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv3e3_glow.jpg
+map_d kv3e3_glow.jpg
+
+newmtl Material.00007b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv1e3_glow.jpg
+map_d kv1e3_glow.jpg
+
+newmtl Material.0000df
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv1e3_glow.jpg
+map_d kv1e3_glow.jpg
+
+newmtl Material.00023b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv3e3_glow.jpg
+map_d kv3e3_glow.jpg
+
+newmtl Material.0002cb
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv5e_glow.jpg
+map_d kv5e_glow.jpg
+
+newmtl Material.000377
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv2e3_glow.jpg
+map_d kv2e3_glow.jpg
+
+newmtl Material.00042e
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd kv4e.jpg
+map_d kv4e.jpg

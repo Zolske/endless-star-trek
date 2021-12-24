@@ -1,0 +1,7 @@
+Templates/Cardassian/
+1 Ranol		CardassianShipRanol	CardassianShipRanolSmall	CardassianShipRanolLarge
+2 Hideki	CardassianShipHideki	CardassianShipHidekiSmall	CardassianShipHidekiLarge
+3 Brinok	CardassianShipBrinok	CardassianShipBrinokSmall	CardassianShipBrinokLarge	
+4 Galor		CardassianShipGalor	CardassianShipGalorSmall	CardassianShipGalorLarge
+5 Keldon	CardassianShipKeldon	CardassianShipKeldonSmall	CardassianShipKeldonLarge
+6 Hutet		CardassianShipHutet	CardassianShipHutetSmall	CardassianShipHutetLarge

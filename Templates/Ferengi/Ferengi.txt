@@ -1,0 +1,7 @@
+Templates/Ferengi/
+1 Colony	FerengiShipColony/	FerengiShipColony/FerengiShipColonySmall	FerengiShipColony/FerengiShipColonyLarge
+2 NGort		FerengiShipNGort/	FerengiShipNGort/FerengiShipNGortSmall		FerengiShipNGort/FerengiShipNGortLarge
+3 Tokorn	FerengiShipTokorn/	FerengiShipTokorn/FerengiShipTokornSmall	FerengiShipTokorn/FerengiShipTokornLarge
+4 Ooron		FerengiShipOoron/	FerengiShipOoron/FerengiShipOoronSmall		FerengiShipOoron/FerengiShipOoronLarge
+5 Goront	FerengiShipGoront/	FerengiShipGoront/FerengiShipGorontSmall	FerengiShipGoront/FerengiShipGorontLarge
+6 Marauder	FerengiShipMarauder/	FerengiShipMarauder/FerengiShipMarauderSmall	FerengiShipMarauder/FerengiShipMarauderLarge

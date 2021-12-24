@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material.000001
+Ns 996.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.405585 0.184722 0.098385
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 8472_behemoth.jpg

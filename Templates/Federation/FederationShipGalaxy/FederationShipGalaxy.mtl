@@ -1,0 +1,68 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Material.000001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Galaxy_D_Glow.jpg
+map_d F_Galaxy_D_Glow.jpg
+
+newmtl Material.000010
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Galaxy_D_Glow.jpg
+map_d F_Galaxy_D_Glow.jpg
+
+newmtl Material.000018
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Galaxy_D_Glow.jpg
+map_d F_Galaxy_D_Glow.jpg
+
+newmtl Material.0000b6
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Galaxy_A_Glow.jpg
+map_d F_Galaxy_A_Glow.jpg
+
+newmtl Material.0004a6
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Galaxy_B_Glow.jpg
+map_d F_Galaxy_B_Glow.jpg
+
+newmtl Material.0008d7
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Galaxy_C_Glow.jpg
+map_d F_Galaxy_C_Glow.jpg

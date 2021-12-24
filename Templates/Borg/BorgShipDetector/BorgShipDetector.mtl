@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material.000001
+Ns 45.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.576454 0.576454 0.576454
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bcruise1_glow.jpg
+map_d Bcruise1_glow.jpg
+
+newmtl Material.000087
+Ns 45.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.640000 0.448082
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bglow1_glow.jpg
+map_d Bglow1_glow.jpg
+
+newmtl Material.000099
+Ns 45.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.576454 0.576454 0.576454
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bcruise1_glow.jpg
+map_d Bcruise1_glow.jpg
+
+newmtl Material.000190
+Ns 45.098039
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.640000 0.448082
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bglow1_glow.jpg
+map_d Bglow1_glow.jpg

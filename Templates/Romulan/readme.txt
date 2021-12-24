@@ -1,0 +1,9 @@
+Templates/Romulan/
+1 Freighter	RomulanShipFreighter/	RomulanShipFreighter/RomulanShipFreighterSmall	RomulanShipFreighter/RomulanShipFreighterLarge
+2 Shrike	RomulanShipShrike/	RomulanShipShrike/RomulanShipShrikeSmall	RomulanShipShrike/RomulanShipShrikeLarge
+3 Griffin	RomulanShipGriffin/	RomulanShipGriffin/RomulanShipGriffinSmall	RomulanShipGriffin/RomulanShipGriffinLarge
+4 Pvash Typ D	RomulanShipPvashD/	RomulanShipPvashD/RomulanShipPvashDSmall	RomulanShipPvashD/RomulanShipPvashDLarge
+5 Valdore	RomulanShipValdore/	RomulanShipValdore/RomulanShipValdoreSmall	RomulanShipValdore/RomulanShipValdoreLarge
+6 Warbird	RomulanShipWarbird/	RomulanShipWarbird/RomulanShipWarbirdSmall	RomulanShipWarbird/RomulanShipWarbirdLarge
+
+Nicht verwendet: Veles

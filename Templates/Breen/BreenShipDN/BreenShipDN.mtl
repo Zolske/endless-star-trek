@@ -1,0 +1,222 @@
+# Blender MTL File: 'None'
+# Material Count: 20
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nose_glow.jpg
+map_d nose_glow.jpg
+
+newmtl Material.0002aa
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd maint_glow.jpg
+map_d maint_glow.jpg
+
+newmtl Material.0003dd
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc1_glow.jpg
+map_d misc1_glow.jpg
+
+newmtl Material.000599
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc3_glow.jpg
+map_d misc3_glow.jpg
+
+newmtl Material.000819
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd side_glow.jpg
+map_d side_glow.jpg
+
+newmtl Material.0008c9
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd module_glow.jpg
+map_d module_glow.jpg
+
+newmtl Material.000b70
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc2_glow.jpg
+map_d misc2_glow.jpg
+
+newmtl Material.000d02
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bacmod_glow.jpg
+map_d bacmod_glow.jpg
+
+newmtl Material.000d76
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd navdef_glow.jpg
+map_d navdef_glow.jpg
+
+newmtl Material.000d8b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bmod_glow.jpg
+map_d bmod_glow.jpg
+
+newmtl Material.000ea5
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd win_glow.jpg
+map_d win_glow.jpg
+
+newmtl Material.000ebd
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nosef_glow.jpg
+map_d nosef_glow.jpg
+
+newmtl Material.00100b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc3f_glow.jpg
+map_d misc3f_glow.jpg
+
+newmtl Material.00107d
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bridge_glow.jpg
+map_d bridge_glow.jpg
+
+newmtl Material.0010b9
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc4_glow.jpg
+map_d misc4_glow.jpg
+
+newmtl Material.001119
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc5_glow.jpg
+map_d misc5_glow.jpg
+
+newmtl Material.0011ed
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd main_glow.jpg
+map_d main_glow.jpg
+
+newmtl Material.00139a
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd glow_glow.jpg
+map_d glow_glow.jpg
+
+newmtl Material.0013b2
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc6_glow.jpg
+map_d misc6_glow.jpg
+
+newmtl Material.001478
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc7_glow.jpg
+map_d misc7_glow.jpg

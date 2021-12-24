@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material.000001
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D_TNG_Battleshio_A_Glow.jpg
+map_d D_TNG_Battleshio_A_Glow.jpg

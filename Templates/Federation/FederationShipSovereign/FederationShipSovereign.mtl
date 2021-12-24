@@ -1,0 +1,232 @@
+# Blender MTL File: 'None'
+# Material Count: 21
+
+newmtl Material.000001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_D_Glow.jpg
+map_d F_Sov_D_Glow.jpg
+
+newmtl Material.00002b
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.00008a
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_D_Glow.jpg
+map_d F_Sov_D_Glow.jpg
+
+newmtl Material.000106
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_A_Glow.jpg
+map_d F_Sov_A_Glow.jpg
+
+newmtl Material.0005e6
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_D_Glow.jpg
+map_d F_Sov_D_Glow.jpg
+
+newmtl Material.0005f4
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_B_Glow.jpg
+map_d F_Sov_B_Glow.jpg
+
+newmtl Material.0005fe
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_B_Glow.jpg
+map_d F_Sov_B_Glow.jpg
+
+newmtl Material.000604
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.560000 0.560000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+
+newmtl Material.00061d
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.000636
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.000652
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.00066e
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_A_Glow.jpg
+map_d F_Sov_A_Glow.jpg
+
+newmtl Material.0006ac
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.00093c
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.000990
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.0009ba
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.0009c8
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.0009f0
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.000a1d
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_B_Glow.jpg
+map_d F_Sov_B_Glow.jpg
+
+newmtl Material.000cb7
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg
+
+newmtl Material.000db5
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Sov_C_Glow.jpg
+map_d F_Sov_C_Glow.jpg

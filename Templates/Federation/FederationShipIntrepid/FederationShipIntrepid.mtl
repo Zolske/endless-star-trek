@@ -1,0 +1,101 @@
+# Blender MTL File: 'None'
+# Material Count: 9
+
+newmtl Material.000001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_C_Glow.jpg
+map_d F_Intrepid_C_Glow.jpg
+
+newmtl Material.00055f
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_C_Glow.jpg
+map_d F_Intrepid_C_Glow.jpg
+
+newmtl Material.000abd
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_A_Glow.jpg
+map_d F_Intrepid_A_Glow.jpg
+
+newmtl Material.000b03
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_A_Glow.jpg
+map_d F_Intrepid_A_Glow.jpg
+
+newmtl Material.000b61
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_A_Glow.jpg
+map_d F_Intrepid_A_Glow.jpg
+
+newmtl Material.000bc2
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_B_Glow.jpg
+map_d F_Intrepid_B_Glow.jpg
+
+newmtl Material.000bdf
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_B_Glow.jpg
+map_d F_Intrepid_B_Glow.jpg
+
+newmtl Material.000cd6
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_B_Glow.jpg
+map_d F_Intrepid_B_Glow.jpg
+
+newmtl Material.00114c
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Intrepid_A_Glow.jpg
+map_d F_Intrepid_A_Glow.jpg

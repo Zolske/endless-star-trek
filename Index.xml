@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mod Name="Endless Star Trek" Guid="C1C0725E-5015-4D87-BC56-49FFD509C6BD" Standalone="true">
+
+  <Version Major="1" Minor="1" Revision="58" Serial="3" />
+  <MinimumRequiredGameVersion Major="1" Minor="0" Revision="0" Serial="0" />
+  <Authors>Zolska</Authors>
+  <Homepage>http://endless-space.amplitude-studios.com</Homepage>
+  <ReleaseDate>2015-03-03</ReleaseDate>
+
+  <ReleaseNotes>
+    All the version notes since the alpha version can be found at:
+    http://forums.amplitude-studios.com/showthread.php?446-Release-Notes
+  </ReleaseNotes>
+
+  <Description>
+    This mod is replacing some of the standard Endless Space races with Star Trek races. 
+  </Description>
+
+  <Tag>General</Tag>
+
+  <Thumbnail>Gui/Thumbnail-01.jpg</Thumbnail>
+  <Thumbnail>Gui/Thumbnail-02.jpg</Thumbnail>
+  <Thumbnail>Gui/Thumbnail-03.jpg</Thumbnail>
+  <Thumbnail>Gui/Thumbnail-04.jpg</Thumbnail>
+  <Thumbnail>Gui/Thumbnail-05.jpg</Thumbnail>
+
+  <Gui>
+    <Title>%ModName</Title>
+    <Description>%ModDescription</Description>
+    <Icon Small="Gui/Icon-Small" Large="Gui/Icon-Large" Wide="Gui/Icon-Wide"/>
+  </Gui>
+
+  <Game>
+    <Database>
+      <Repository Target="Achievement">
+        <File>Simulation/Achievement.xml</File>
+        <File>Simulation/NarrativeEvent.xml</File>
+        <File>Simulation/RandomEvent.xml</File>
+        <File>Simulation/GalaxyFXEvent.xml</File>
+        <File>Simulation/ExplorationEvent.xml</File>
+      </Repository>
+      <Repository Target="Agency">
+        <File>AI/BailiffDistrainee.xml</File>
+      </Repository>
+      <Repository Target="Anomaly">
+        <File>Simulation/Anomaly.xml</File>
+      </Repository>
+      <Repository Target="BattleCard">
+        <File>Simulation/BattleCard.xml</File>
+      </Repository>
+      <Repository Target="BattleCardFamily">
+        <File>Simulation/BattleCard.xml</File>
+      </Repository>
+      <Repository Target="BattleFormation">
+        <File>Simulation/BattleFormation.xml</File>
+      </Repository>
+      <Repository Target="BattleSequence">
+        <File>Simulation/BattleSequence.xml</File>
+      </Repository>
+      <Repository Target="ConstructibleElement">
+        <File>Simulation/PlanetColonization.xml</File>
+        <File>Simulation/PlanetImprovement.xml</File>
+        <File>Simulation/PlanetInfrastructure.xml</File>
+        <File>Simulation/StarSystemImprovement.xml</File>
+      </Repository>
+      <Repository Target="DiplomaticAttitude">
+        <File>AI/DiplomaticAttitude.xml</File>
+      </Repository>
+      <Repository Target="DiplomaticAttitudeModifier">
+        <File>AI/DiplomaticAttitudeModifier.xml</File>
+      </Repository>
+      <Repository Target="DiplomaticBehavior">
+        <File>AI/DiplomaticBehavior.xml</File>
+      </Repository>
+      <Repository Target="DiplomaticStatus">
+        <File>Simulation/DiplomaticStatus.xml</File>
+      </Repository>
+      <Repository Target="Faction">
+        <File>Simulation/Faction.xml</File>
+      </Repository>
+      <Repository Target="FactionColor">
+        <File>Simulation/FactionColor.xml</File>
+      </Repository>
+      <Repository Target="FactionTrait">
+        <File>Simulation/FactionTrait.xml</File>
+      </Repository>
+      <Repository Target="FactionTraitEffect">
+        <File>Simulation/FactionTrait.xml</File>
+      </Repository>
+      <Repository Target="GameDifficulty">
+        <File>Simulation/GameDifficulty.xml</File>
+      </Repository>
+      <Repository Target="GameSpeed">
+        <File>Simulation/GameSpeed.xml</File>
+      </Repository>
+      <Repository Target="Gui">
+        <File>AI/DiplomaticAttitude.xml</File>
+        <File>AI/DiplomaticAttitudeModifier.xml</File>
+        <File>AI/Gui.xml</File>
+        <File>AI/Personality.xml</File>
+        <File>Simulation/BattleCard.xml</File>
+        <File>Simulation/CivilianModule.xml</File>
+        <File>Simulation/DefenseModule.xml</File>
+        <File>Simulation/DiplomaticStatus.xml</File>
+        <File>Simulation/EmpireImprovement.xml</File>
+        <File>Simulation/EmpireTraitDescriptor.xml</File>
+        <File>Simulation/Faction.xml</File>
+        <File>Simulation/FactionTrait.xml</File>
+        <File>Simulation/Gui.xml</File>
+        <File>Simulation/Hero.xml</File>
+        <File>Simulation/HeroAbility.xml</File>
+        <File>Simulation/HeroDescriptor.xml</File>
+        <File>Simulation/Hull.xml</File>
+        <File>Simulation/MoonDescriptor.xml</File>
+        <File>Simulation/PlanetColonization.xml</File>
+        <File>Simulation/PlanetImprovement.xml</File>
+        <File>Simulation/PlanetInfrastructure.xml</File>
+        <File>Simulation/RandomEvent.xml</File>
+        <File>Simulation/Resource.xml</File>
+        <File>Simulation/StarSystemImprovement.xml</File>
+        <File>Simulation/SupportModule.xml</File>
+        <File>Simulation/Unlock.xml</File>
+        <File>Simulation/WeaponModule.xml</File>
+      </Repository>
+      <Repository Target="Hero">
+        <File>Simulation/Hero.xml</File>
+      </Repository>
+      <Repository Target="HeroClass">
+        <File>Simulation/Hero.xml</File>
+      </Repository>
+      <Repository Target="HeroLeveling">
+        <File>Simulation/Hero.xml</File>
+      </Repository>
+      <Repository Target="HeroAbility">
+        <File>Simulation/HeroAbility.xml</File>
+      </Repository>
+      <Repository Target="Hull">
+        <File>Simulation/Hull.xml</File>
+      </Repository>
+      <Repository Target="Improvement">
+        <File>Simulation/EmpireImprovement.xml</File>
+      </Repository>
+      <Repository Target="LayeredMusic">
+        <File>Audio/LayeredMusic.xml</File>
+      </Repository>
+      <Repository Target="Module">
+        <File>Simulation/WeaponModule.xml</File>
+        <File>Simulation/DefenseModule.xml</File>
+        <File>Simulation/SupportModule.xml</File>
+        <File>Simulation/CivilianModule.xml</File>
+      </Repository>
+      <Repository Target="Personality">
+        <File>AI/Personality.xml</File>
+      </Repository>
+      <Repository Target="PirateDifficulty">
+        <File>AI/PirateDifficulty.xml</File>
+      </Repository>
+      <Repository Target="RealizationEvent">
+        <File>Simulation/RealizationEvent.xml</File>
+      </Repository>
+      <Repository Target="RealizationShot">
+        <File>Simulation/RealizationShot.xml</File>
+      </Repository>
+      <Repository Target="Resource">
+        <File>Simulation/Resource.xml</File>
+      </Repository>
+      <Repository Target="StarSystemAssignation">
+        <File>AI/StarSystemAssignation.xml</File>
+      </Repository>
+      <Repository Target="ShipAlteration">
+        <File>Simulation/ShipAlteration.xml</File>
+      </Repository>
+      <Repository Target="ShipDesign">
+        <File>Simulation/ShipDesign.xml</File>
+        <File>Simulation/CivilianShipDesign.xml</File>
+      </Repository>
+      <Repository Target="ShipDesignTemplate">
+        <File>AI/ShipDesignTemplate.xml</File>
+      </Repository>
+      <Repository Target="ShipLevel">
+        <File>Simulation/ShipLevel.xml</File>
+      </Repository>
+      <Repository Target="SimulationDescriptor">
+        <File>Simulation/BattleCardDescriptor.xml</File>
+        <File>Simulation/BattleDescriptor.xml</File>
+        <File>Simulation/EmpireDescriptor.xml</File>
+        <File>Simulation/EmpireTraitDescriptor.xml</File>
+        <File>Simulation/GameDifficultyDescriptor.xml</File>
+        <File>Simulation/GameSpeedDescriptor.xml</File>
+        <File>Simulation/HeroDescriptor.xml</File>
+        <File>Simulation/MoonDescriptor.xml</File>
+        <File>Simulation/PlanetDescriptor.xml</File>
+        <File>Simulation/PlanetInfrastructureDescriptor.xml</File>
+        <File>Simulation/RandomEventDescriptor.xml</File>
+        <File>Simulation/ExplorationEventDescriptor.xml</File>
+        <File>Simulation/ShipDescriptor.xml</File>
+        <File>Simulation/StarSystemDescriptor.xml</File>
+        <File>Simulation/StarSystemImprovementDescriptor.xml</File>
+        <File>Simulation/SupportModuleDescriptor.xml</File>
+      </Repository>
+      <Repository Target="Technology">
+        <File>Simulation/Technology.xml</File>
+        <File>Simulation/TechnologyDiplomacy.xml</File>
+        <File>Simulation/TechnologyExpansion.xml</File>
+        <File>Simulation/TechnologySciences.xml</File>
+        <File>Simulation/TechnologyWarfare.xml</File>
+      </Repository>
+      <Repository Target="Term">
+        <File>Simulation/Term.xml</File>
+      </Repository>
+    </Database>
+<!-- ############################################################################################################################################################################################-->
+<!-- ############################################################################################################################################################################################-->
+<!-- ## StarTrekRace  ###########################################################################################################################################################################-->
+<!-- ############################################################################################################################################################################################-->
+<!-- ############################################################################################################################################################################################-->
+        <!-- Add custom models here. They are called "Templates" because they are more than just models. -->
+    <Templates>
+    <!--
+        Reference is the name/path it'll be known as in game. This should not collide with any known prefab, except if you want to "overwrite" the source (aka change the ships of a faction for example)
+        Size : Small / Medium / Large
+        Prefab is the source you want to base your mod on
+        Model is your modded model
+    -->
+<!-- Terran - Cardassian -->
+      <Ship Reference="Prefabs/Spaceships/Terran/SS_Terran_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Cardassian/CardassianShipRanol/CardassianShipRanol</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Terran/SS_Terran_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Cardassian/CardassianShipHideki/CardassianShipHideki</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Terran/SS_Terran_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Cardassian/CardassianShipBrinok/CardassianShipBrinok</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Terran/SS_Terran_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Cardassian/CardassianShipGalor/CardassianShipGalor</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Terran/SS_Terran_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Cardassian/CardassianShipKeldon/CardassianShipKeldon</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Terran/SS_Terran_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Cardassian/CardassianShipHutet/CardassianShipHutet</Model>
+      </Ship>
+
+<!-- Emperor -  Romulan-->
+      <Ship Reference="Prefabs/Spaceships/Emperor/SS_Emperor_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Romulan/RomulanShipFreighter/RomulanShipFreighter</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Emperor/SS_Emperor_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Romulan/RomulanShipShrike/RomulanShipShrike</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Emperor/SS_Emperor_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Romulan/RomulanShipGriffin/RomulanShipGriffin</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Emperor/SS_Emperor_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Romulan/RomulanShipPvashD/RomulanShipPvashD</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Emperor/SS_Emperor_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Romulan/RomulanShipValdore/RomulanShipValdore</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Emperor/SS_Emperor_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Romulan/RomulanShipWarbird/RomulanShipWarbird</Model>
+      </Ship>
+
+<!-- Swarm -  Species8472-->
+      <Ship Reference="Prefabs/Spaceships/Swarm/SS_Swarm_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Species8472/Species8472ShipColony/Species8472ShipColony</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Swarm/SS_Swarm_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Species8472/Species8472ShipScout/Species8472ShipScout</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Swarm/SS_Swarm_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Species8472/Species8472ShipBioship/Species8472ShipBioship</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Swarm/SS_Swarm_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Species8472/Species8472ShipFrigate/Species8472ShipFrigate</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Swarm/SS_Swarm_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Species8472/Species8472ShipBehemoth/Species8472ShipBehemoth</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Swarm/SS_Swarm_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Species8472/Species8472ShipMothership/Species8472ShipMothership</Model>
+      </Ship>
+
+<!-- Sophon - Federation-->
+      <Ship Reference="Prefabs/Spaceships/Sophon/SS_Sophon_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Federation/FederationShipColony/FederationShipColony</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sophon/SS_Sophon_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Federation/FederationShipDefiant/FederationShipDefiant</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sophon/SS_Sophon_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Federation/FederationShipAkira/FederationShipAkira</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sophon/SS_Sophon_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Federation/FederationShipIntrepid/FederationShipIntrepid</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sophon/SS_Sophon_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Federation/FederationShipGalaxy/FederationShipGalaxy</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sophon/SS_Sophon_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Federation/FederationShipSovereign/FederationShipSovereign</Model>
+      </Ship>
+
+<!-- Horatio - Dominion -->
+      <Ship Reference="Prefabs/Spaceships/Horatio/SS_Horatio_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Dominion/DominionShipColony/DominionShipColony</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Horatio/SS_Horatio_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Dominion/DominionShipBugship/DominionShipBugship</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Horatio/SS_Horatio_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Dominion/DominionShipCruiserB/DominionShipCruiserB</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Horatio/SS_Horatio_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Dominion/DominionShipCruiserA/DominionShipCruiserA</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Horatio/SS_Horatio_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Dominion/DominionShipBattleship/DominionShipBattleship</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Horatio/SS_Horatio_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Dominion/DominionShipDreadnought/DominionShipDreadnought</Model>
+      </Ship>
+
+<!-- Hissho - Klingon find bugg-->
+      <Ship Reference="Prefabs/Spaceships/Hissho/SS_Hissho_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Klingon/KlingonShipColony/KlingonShipColony</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Hissho/SS_Hissho_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Klingon/KlingonShipBRel/KlingonShipBRel</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Hissho/SS_Hissho_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Klingon/KlingonShipKVort/KlingonShipKVort</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Hissho/SS_Hissho_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Klingon/KlingonShipVorcha/KlingonShipVorcha</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Hissho/SS_Hissho_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Klingon/KlingonShipNKal/KlingonShipNKal</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Hissho/SS_Hissho_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Klingon/KlingonShipNeghvar/KlingonShipNeghvar</Model>
+      </Ship>
+
+<!-- Sower -  Borg-->
+      <Ship Reference="Prefabs/Spaceships/Sower/SS_Sower_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Borg/BorgShipPyramid/BorgShipPyramid</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sower/SS_Sower_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Borg/BorgShipDetector/BorgShipDetector</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sower/SS_Sower_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Borg/BorgShipSphere/BorgShipSphere</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sower/SS_Sower_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Borg/BorgShipDiamond/BorgShipDiamond</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sower/SS_Sower_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Borg/BorgShipCube/BorgShipCube</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Sower/SS_Sower_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Borg/BorgShipTacticalCube/BorgShipTacticalCube</Model>
+      </Ship>
+
+      <!-- Amoeba - Ferengi-->
+      <Ship Reference="Prefabs/Spaceships/Amoeba/SS_Amoeba_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Ferengi/FerengiShipColony/FerengiShipColony</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Amoeba/SS_Amoeba_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Ferengi/FerengiShipNGort/FerengiShipNGort</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Amoeba/SS_Amoeba_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Ferengi/FerengiShipTokorn/FerengiShipTokorn</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Amoeba/SS_Amoeba_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Ferengi/FerengiShipOoron/FerengiShipOoron</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Amoeba/SS_Amoeba_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Ferengi/FerengiShipGoront/FerengiShipGoront</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Amoeba/SS_Amoeba_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Ferengi/FerengiShipMarauder/FerengiShipMarauder</Model>
+      </Ship>
+
+<!-- Resistance - Breen -->
+      <Ship Reference="Prefabs/Spaceships/Resistance/SS_Resistance_Small_Colonization" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Breen/BreenShipDD/BreenShipDD</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Resistance/SS_Resistance_Small_A" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_A</Prefab>
+        <Model>Templates/Breen/BreenShipCL/BreenShipCL</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Resistance/SS_Resistance_Small_B" Size="Small">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Small_B</Prefab>
+        <Model>Templates/Breen/BreenShipCA/BreenShipCA</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Resistance/SS_Resistance_Medium_A" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_A</Prefab>
+        <Model>Templates/Breen/BreenShipBCH/BreenShipBCH</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Resistance/SS_Resistance_Medium_B" Size="Medium">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Medium_B</Prefab>
+        <Model>Templates/Breen/BreenShipDN/BreenShipDN</Model>
+      </Ship>
+            <Ship Reference="Prefabs/Spaceships/Resistance/SS_Resistance_Large_A" Size="Large">
+        <Prefab>Prefabs/Spaceships/Terran/SS_Terran_Large_A</Prefab>
+        <Model>Templates/Breen/BreenShipBB/BreenShipBB</Model>
+      </Ship>
+    </Templates>
+  </Game>
+
+</Mod>

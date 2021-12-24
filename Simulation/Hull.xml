@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  
+<!-- SMALL 1 -->
+  <Hull Name="ShipClassSmall1"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranSmall1Title</Title>
+      <Description>%ShipClassTerranSmall1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Terran/ShipClassSmall1TerranSmall" Large="Gui/DynamicBitmaps/Ships/Terran/ShipClassSmall1TerranLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Terran"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranSmall1Title</Title>
+      <Description>%ShipClassTerranSmall1Description</Description>
+      <Icon Small="Templates/Cardassian/CardassianShipHideki/CardassianShipHidekiSmall" Large="Templates/Cardassian/CardassianShipHideki/CardassianShipHidekiLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Emperor"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranSmall1Title</Title>
+      <Description>%ShipClassTerranSmall1Description</Description>
+      <!-- insert -->
+<Icon Small="Templates/Romulan/RomulanShipShrike/RomulanShipShrikeSmall" Large="Templates/Romulan/RomulanShipFreighter/RomulanShipFreighterLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Swarm"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassSwarmSmall1Title</Title>
+      <Description>%ShipClassSwarmSmall1Description</Description>
+            <!-- insert -->
+<Icon Small="Templates/Species8472/Species8472ShipScout/Species8472ShipScoutSmall" Large="Templates/Species8472/Species8472ShipScout/Species8472ShipScoutLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Sophon"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassSophonSmall1Title</Title>
+      <Description>%ShipClassSophonSmall1Description</Description>
+                  <!-- insert -->
+<Icon Small="Templates/Federation/FederationShipDefiant/FederationShipDefiantSmall" Large="Templates/Federation/FederationShipDefiant/FederationShipDefiantLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Horatio"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassHoratioSmall1Title</Title>
+      <Description>%ShipClassHoratioSmall1Description</Description>
+        <!-- insert -->
+ <Icon Small="Templates/Dominion/DominionShipBugship/DominionShipBugshipSmall" Large="Templates/Dominion/DominionShipBugship/DominionShipBugshipLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Hissho"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassHisshoSmall1Title</Title>
+      <Description>%ShipClassHisshoSmall1Description</Description>
+      <!-- insert -->
+<Icon Small="Templates/Klingon/KlingonShipBRel/KlingonShipBRelSmall" Large="Templates/Klingon/KlingonShipBRel/KlingonShipBRelLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Sower"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassSowerSmall1Title</Title>
+      <Description>%ShipClassSowerSmall1Description</Description>
+       <!-- insert -->
+<Icon Small="Templates/Borg/BorgShipDetector/BorgShipDetectorSmall" Large="Templates/Borg/BorgShipDetector/BorgShipDetectorLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Amoeba"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassAmoebaSmall1Title</Title>
+      <Description>%ShipClassAmoebaSmall1Description</Description>
+             <!-- insert -->
+<Icon Small="Templates/Ferengi/FerengiShipNGort/FerengiShipNGortSmall" Large="Templates/Ferengi/FerengiShipNGort/FerengiShipNGortLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Resistance"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassResistanceSmall1Title</Title>
+      <Description>%ShipClassResistanceSmall1Description</Description>
+             <!-- insert -->
+<Icon Small="Templates/Breen/BreenShipCL/BreenShipCLSmall" Large="Templates/Breen/BreenShipCL/BreenShipCLLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Automaton"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassAutomatonSmall1Title</Title>
+      <Description>%ShipClassAutomatonSmall1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Automaton/ShipClassSmall1AutomatonSmall" Large="Gui/DynamicBitmaps/Ships/Automaton/ShipClassSmall1AutomatonLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall1Pirates"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="1" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassSmall1</Descriptors>
+    <Gui>
+      <Title>%ShipClassPiratesSmall1Title</Title>
+      <Description>%ShipClassPiratesSmall1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Pirates/ShipClassSmall1PiratesSmall" Large="Gui/DynamicBitmaps/Ships/Pirates/ShipClassSmall1PiratesLarge"/>
+      <CharCode>1</CharCode>
+    </Gui>
+  </Hull>
+  
+
+<!-- SMALL 2 -->
+  <Hull Name="ShipClassSmall2"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranSmall2Title</Title>
+      <Description>%ShipClassTerranSmall2Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Terran/ShipClassSmall2TerranSmall" Large="Gui/DynamicBitmaps/Ships/Terran/ShipClassSmall2TerranLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Terran"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranSmall2Title</Title>
+      <Description>%ShipClassTerranSmall2Description</Description>
+      <Icon Small="Templates/Cardassian/CardassianShipBrinok/CardassianShipBrinokSmall" Large="Templates/Cardassian/CardassianShipBrinok/CardassianShipBrinokLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Emperor"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranSmall2Title</Title>
+      <Description>%ShipClassTerranSmall2Description</Description>
+      <Icon Small="Templates/Romulan/RomulanShipGriffin/RomulanShipGriffinSmall" Large="Templates/Romulan/RomulanShipGriffin/RomulanShipGriffinLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Swarm"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassSwarmSmall2Title</Title>
+      <Description>%ShipClassSwarmSmall2Description</Description>
+      <Icon Small="Templates/Species8472/Species8472ShipBioship/Species8472ShipBioshipSmall" Large="Templates/Species8472/Species8472ShipBioship/Species8472ShipBioshipLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Sophon"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassSophonSmall2Title</Title>
+      <Description>%ShipClassSophonSmall2Description</Description>
+      <Icon Small="Templates/Federation/FederationShipAkira/FederationShipAkiraSmall" Large="Templates/Federation/FederationShipAkira/FederationShipAkiraLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Horatio"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassHoratioSmall2Title</Title>
+      <Description>%ShipClassHoratioSmall2Description</Description>
+     <Icon Small="Templates/Dominion/DominionShipCruiserB/DominionShipCruiserBSmall" Large="Templates/Dominion/DominionShipCruiserB/DominionShipCruiserBLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Hissho"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassHisshoSmall2Title</Title>
+      <Description>%ShipClassHisshoSmall2Description</Description>
+      <Icon Small="Templates/Klingon/KlingonShipKVort/KlingonShipKVortSmall" Large="Templates/Klingon/KlingonShipKVort/KlingonShipKVortLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Sower"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassSowerSmall2Title</Title>
+      <Description>%ShipClassSowerSmall2Description</Description>
+      <Icon Small="Templates/Borg/BorgShipSphere/BorgShipSphereSmall" Large="Templates/Borg/BorgShipSphere/BorgShipSphereLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Amoeba"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassAmoebaSmall2Title</Title>
+      <Description>%ShipClassAmoebaSmall2Description</Description>
+      <Icon Small="Templates/Ferengi/FerengiShipTokorn/FerengiShipTokornSmall" Large="Templates/Ferengi/FerengiShipTokorn/FerengiShipTokornLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Resistance"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassResistanceSmall2Title</Title>
+      <Description>%ShipClassResistanceSmall2Description</Description>
+      <Icon Small="Templates/Breen/BreenShipCA/BreenShipCASmall" Large="Templates/Breen/BreenShipCA/BreenShipCASmall"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Automaton"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassAutomatonSmall2Title</Title>
+      <Description>%ShipClassAutomatonSmall2Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Automaton/ShipClassSmall2AutomatonSmall" Large="Gui/DynamicBitmaps/Ships/Automaton/ShipClassSmall2AutomatonLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassSmall2Pirates"
+        Cost="25"
+        MaxHealth="450" MaxWeight="100"
+        Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassSmall2</Descriptors>
+    <Gui>
+      <Title>%ShipClassPiratesSmall2Title</Title>
+      <Description>%ShipClassPiratesSmall2Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Pirates/ShipClassSmall2PiratesSmall" Large="Gui/DynamicBitmaps/Ships/Pirates/ShipClassSmall2PiratesLarge"/>
+      <CharCode>2</CharCode>
+    </Gui>
+  </Hull>
+
+  
+<!-- MEDIUM 1 -->
+  <Hull Name="ShipClassMedium1"
+        Cost="100"
+        MaxHealth="800" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassTerranMedium1Title</Title>
+      <Description>%ShipClassTerranMedium1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Terran/ShipClassMedium1TerranSmall" Large="Gui/DynamicBitmaps/Ships/Terran/ShipClassMedium1TerranLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Terran"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassTerranMedium1Title</Title>
+      <Description>%ShipClassTerranMedium1Description</Description>
+      <Icon Small="Templates/Cardassian/CardassianShipGalor/CardassianShipGalorSmall" Large="Templates/Cardassian/CardassianShipGalor/CardassianShipGalorLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Emperor"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites>
+    <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassTerranMedium1Title</Title>
+      <Description>%ShipClassTerranMedium1Description</Description>
+      <Icon Small="Templates/Romulan/RomulanShipPvashD/RomulanShipPvashDSmall" Large="Templates/Romulan/RomulanShipPvashD/RomulanShipPvashDLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Swarm"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassSwarmMedium1Title</Title>
+      <Description>%ShipClassSwarmMedium1Description</Description>
+      <Icon Small="Templates/Species8472/Species8472ShipFrigate/Species8472ShipFrigateSmall" Large="Templates/Species8472/Species8472ShipFrigate/Species8472ShipFrigateLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Sophon"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassSophonMedium1Title</Title>
+      <Description>%ShipClassSophonMedium1Description</Description>
+      <Icon Small="Templates/Federation/FederationShipIntrepid/FederationShipIntrepidSmall" Large="Templates/Federation/FederationShipIntrepid/FederationShipIntrepidLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Horatio"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassHoratioMedium1Title</Title>
+      <Description>%ShipClassHoratioMedium1Description</Description>
+      <Icon Small="Templates/Dominion/DominionShipCruiserA/DominionShipCruiserASmall" Large="Templates/Dominion/DominionShipCruiserA/DominionShipCruiserALarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Hissho"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassHisshoMedium1Title</Title>
+      <Description>%ShipClassHisshoMedium1Description</Description>
+      <Icon Small="Templates/Klingon/KlingonShipVorcha/KlingonShipVorchaSmall" Large="Templates/Klingon/KlingonShipVorcha/KlingonShipVorchaLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Sower"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassSowerMedium1Title</Title>
+      <Description>%ShipClassSowerMedium1Description</Description>
+      <Icon Small="Templates/Borg/BorgShipDiamond/BorgShipDiamondSmall" Large="Templates/Borg/BorgShipDiamond/BorgShipDiamondLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Amoeba"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassAmoebaMedium1Title</Title>
+      <Description>%ShipClassAmoebaMedium1Description</Description>
+      <Icon Small="Templates/Ferengi/FerengiShipOoron/FerengiShipOoronSmall" Large="Templates/Ferengi/FerengiShipOoron/FerengiShipOoronLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Resistance"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <ResourcesPrerequisites>PlanetStrategicResourceTitanium</ResourcesPrerequisites> <!-- Strategic Resource Prerequisite -->
+    <Gui>
+      <Title>%ShipClassResistanceMedium1Title</Title>
+      <Description>%ShipClassResistanceMedium1Description</Description>
+      <Icon Small="Templates/Breen/BreenShipBCH/BreenShipBCHSmall" Large="Templates/Breen/BreenShipBCH/BreenShipBCHLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Automaton"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <Gui>
+      <Title>%ShipClassAutomatonMedium1Title</Title>
+      <Description>%ShipClassAutomatonMedium1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Automaton/ShipClassMedium1AutomatonSmall" Large="Gui/DynamicBitmaps/Ships/Automaton/ShipClassMedium1AutomatonLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium1Pirates"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>A</Variation>
+    <Descriptors>ShipClassMedium1</Descriptors>
+    <Gui>
+      <Title>%ShipClassPiratesMedium1Title</Title>
+      <Description>%ShipClassPiratesMedium1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Pirates/ShipClassMedium1PiratesSmall" Large="Gui/DynamicBitmaps/Ships/Pirates/ShipClassMedium1PiratesLarge"/>
+      <CharCode>3</CharCode>
+    </Gui>
+  </Hull>
+  
+  
+<!-- MEDIUM 2 -->
+  <Hull Name="ShipClassMedium2"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranMedium2Title</Title>
+      <Description>%ShipClassTerranMedium2Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Terran/ShipClassMedium2TerranSmall" Large="Gui/DynamicBitmaps/Ships/Terran/ShipClassMedium2TerranLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Terran"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranMedium2Title</Title>
+      <Description>%ShipClassTerranMedium2Description</Description>
+      <Icon Small="Templates/Cardassian/CardassianShipKeldon/CardassianShipKeldonSmall" Large="Templates/Cardassian/CardassianShipKeldon/CardassianShipKeldonLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Emperor"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranMedium2Title</Title>
+      <Description>%ShipClassTerranMedium2Description</Description>
+      <Icon Small="Templates/Romulan/RomulanShipValdore/RomulanShipValdoreSmall" Large="Templates/Romulan/RomulanShipValdore/RomulanShipValdoreLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Swarm"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassSwarmMedium2Title</Title>
+      <Description>%ShipClassSwarmMedium2Description</Description>
+      <Icon Small="Templates/Species8472/Species8472ShipBehemoth/Species8472ShipBehemothSmall" Large="Templates/Species8472/Species8472ShipBehemoth/Species8472ShipBehemothLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Sophon"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassSophonMedium2Title</Title>
+      <Description>%ShipClassSophonMedium2Description</Description>
+      <Icon Small="Templates/Federation/FederationShipGalaxy/FederationShipGalaxySmall" Large="Templates/Federation/FederationShipGalaxy/FederationShipGalaxyLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Horatio"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassHoratioMedium2Title</Title>
+      <Description>%ShipClassHoratioMedium2Description</Description>
+      <Icon Small="Templates/Dominion/DominionShipBattleship/DominionShipBattleshipSmall" Large="Templates/Dominion/DominionShipBattleship/DominionShipBattleshipLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Hissho"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassHisshoMedium2Title</Title>
+      <Description>%ShipClassHisshoMedium2Description</Description>
+      <Icon Small="Templates/Klingon/KlingonShipNKal/KlingonShipNKalSmall" Large="Templates/Klingon/KlingonShipNKal/KlingonShipNKalLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Sower"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassSowerMedium2Title</Title>
+      <Description>%ShipClassSowerMedium2Description</Description>
+      <Icon Small="Templates/Borg/BorgShipCube/BorgShipCubeSmall" Large="Templates/Borg/BorgShipCube/BorgShipCubeLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Amoeba"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassAmoebaMedium2Title</Title>
+      <Description>%ShipClassAmoebaMedium2Description</Description>
+      <Icon Small="Templates/Ferengi/FerengiShipGoront/FerengiShipGorontSmall" Large="Templates/Ferengi/FerengiShipGoront/FerengiShipGorontLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Resistance"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassResistanceMedium2Title</Title>
+      <Description>%ShipClassResistanceMedium2Description</Description>
+      <Icon Small="Templates/Breen/BreenShipDN/BreenShipDNSmall" Large="Templates/Breen/BreenShipDN/BreenShipDNLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Automaton"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="0" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassAutomatonMedium2Title</Title>
+      <Description>%ShipClassAutomatonMedium2Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Automaton/ShipClassMedium2AutomatonSmall" Large="Gui/DynamicBitmaps/Ships/Automaton/ShipClassMedium2AutomatonLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassMedium2Pirates"
+        Cost="100"
+        MaxHealth="1200" MaxWeight="200"
+        Speed="1" FreeSpeed="0" CommandPoint="2">
+    <ShipSize>ShipSizeMedium</ShipSize>
+    <Variation>B</Variation>
+    <Descriptors>ShipClassMedium2</Descriptors>
+    <Gui>
+      <Title>%ShipClassPiratesMedium2Title</Title>
+      <Description>%ShipClassPiratesMedium2Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Pirates/ShipClassMedium2PiratesSmall" Large="Gui/DynamicBitmaps/Ships/Pirates/ShipClassMedium2PiratesLarge"/>
+      <CharCode>4</CharCode>
+    </Gui>
+  </Hull>
+  
+
+<!-- LARGE 1 -->
+  <Hull Name="ShipClassLarge1"
+        Cost="400"
+        MaxHealth="1400" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranLarge1Title</Title>
+      <Description>%ShipClassTerranLarge1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Terran/ShipClassLarge1TerranSmall" Large="Gui/DynamicBitmaps/Ships/Terran/ShipClassLarge1TerranLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Terran"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranLarge1Title</Title>
+      <Description>%ShipClassTerranLarge1Description</Description>
+      <Icon Small="Templates/Cardassian/CardassianShipHutet/CardassianShipHutetSmall" Large="Templates/Cardassian/CardassianShipHutet/CardassianShipHutetLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Emperor"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranLarge1Title</Title>
+      <Description>%ShipClassTerranLarge1Description</Description>
+            <Icon Small="Templates/Romulan/RomulanShipWarbird/RomulanShipWarbirdSmall" Large="Templates/Romulan/RomulanShipWarbird/RomulanShipWarbirdLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Swarm"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassSwarmLarge1Title</Title>
+      <Description>%ShipClassSwarmLarge1Description</Description>
+      <Icon Small="Templates/Species8472/Species8472ShipMothership/Species8472ShipMothershipSmall" Large="Templates/Species8472/Species8472ShipMothership/Species8472ShipMothershipLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Sophon"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassSophonLarge1Title</Title>
+      <Description>%ShipClassSophonLarge1Description</Description>
+      <Icon Small="Templates/Federation/FederationShipSovereign/FederationShipSovereignSmall" Large="Templates/Federation/FederationShipSovereign/FederationShipSovereignLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Horatio"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassHoratioLarge1Title</Title>
+      <Description>%ShipClassHoratioLarge1Description</Description>
+      <Icon Small="Templates/Dominion/DominionShipDreadnought/DominionShipDreadnoughtSmall" Large="Templates/Dominion/DominionShipDreadnought/DominionShipDreadnoughtLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Hissho"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassHisshoLarge1Title</Title>
+      <Description>%ShipClassHisshoLarge1Description</Description>
+      <Icon Small="Templates/Klingon/KlingonShipNeghvar/KlingonShipNeghvarSmall" Large="Templates/Klingon/KlingonShipNeghvar/KlingonShipNeghvarLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Sower"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassSowerLarge1Title</Title>
+      <Description>%ShipClassSowerLarge1Description</Description>
+      <Icon Small="Templates/Borg/BorgShipTacticalCube/BorgShipTacticalCubeSmall" Large="Templates/Borg/BorgShipTacticalCube/BorgShipTacticalCubeLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Amoeba"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassAmoebaLarge1Title</Title>
+      <Description>%ShipClassAmoebaLarge1Description</Description>
+      <Icon Small="Templates/Ferengi/FerengiShipMarauder/FerengiShipMarauderSmall" Large="Templates/Ferengi/FerengiShipMarauder/FerengiShipMarauderLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Resistance"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassResistanceLarge1Title</Title>
+      <Description>%ShipClassResistanceLarge1Description</Description>
+            <Icon Small="Templates/Breen/BreenShipBB/BreenShipBBSmall" Large="Templates/Breen/BreenShipBB/BreenShipBBLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Automaton"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassAutomatonLarge1Title</Title>
+      <Description>%ShipClassAutomatonLarge1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Automaton/ShipClassLarge1AutomatonSmall" Large="Gui/DynamicBitmaps/Ships/Automaton/ShipClassLarge1AutomatonLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassLarge1Pirates"
+        Cost="400"
+        MaxHealth="3000" MaxWeight="400"
+        Speed="0" FreeSpeed="0" CommandPoint="4">
+    <ShipSize>ShipSizeLarge</ShipSize>
+    <Descriptors>ShipClassLarge1</Descriptors>
+    <Gui>
+      <Title>%ShipClassPiratesLarge1Title</Title>
+      <Description>%ShipClassPiratesLarge1Description</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Pirates/ShipClassLarge1PiratesSmall" Large="Gui/DynamicBitmaps/Ships/Pirates/ShipClassLarge1PiratesLarge"/>
+      <CharCode>5</CharCode>
+    </Gui>
+  </Hull>
+  
+
+<!-- COLONIZATION -->
+  <Hull Name="ShipClassColonization"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranColonizationTitle</Title>
+      <Description>%ShipClassTerranColonizationDescription</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Terran/ShipClassColonizationTerranSmall" Large="Gui/DynamicBitmaps/Ships/Terran/ShipClassColonizationTerranLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationTerran"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranColonizationTitle</Title>
+      <Description>%ShipClassTerranColonizationDescription</Description>
+      <Icon Small="Templates/Cardassian/CardassianShipRanol/CardassianShipRanolSmall" Large="Templates/Cardassian/CardassianShipRanol/CardassianShipRanolLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationEmperor"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+    <Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassTerranColonizationTitle</Title>
+      <Description>%ShipClassTerranColonizationDescription</Description>
+     <Icon Small="Templates/Romulan/RomulanShipFreighter/RomulanShipFreighterSmall" Large="Templates/Romulan/RomulanShipFreighter/RomulanShipFreighterLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationSwarm"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassSwarmColonizationTitle</Title>
+      <Description>%ShipClassSwarmColonizationDescription</Description>
+      <Icon Small="Templates/Species8472/Species8472ShipColony/Species8472ShipColonySmall" Large="Templates/Species8472/Species8472ShipColony/Species8472ShipColonyLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationSophon"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassSophonColonizationTitle</Title>
+      <Description>%ShipClassSophonColonizationDescription</Description>
+      <Icon Small="Templates/Federation/FederationShipColony/FederationShipColonySmall" Large="Templates/Federation/FederationShipColony/FederationShipColonyLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationHoratio"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassHoratioColonizationTitle</Title>
+      <Description>%ShipClassHoratioColonizationDescription</Description>
+    <Icon Small="Templates/Dominion/DominionShipColony/DominionShipColonySmall" Large="Templates/Dominion/DominionShipColony/DominionShipColonyLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationHissho"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassHisshoColonizationTitle</Title>
+      <Description>%ShipClassHisshoColonizationDescription</Description>
+      <Icon Small="Templates/Klingon/KlingonShipColony/KlingonShipColonySmall" Large="Templates/Klingon/KlingonShipColony/KlingonShipColonyLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationSower"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassSowerColonizationTitle</Title>
+      <Description>%ShipClassSowerColonizationDescription</Description>
+     <Icon Small="Templates/Borg/BorgShipPyramid/BorgShipPyramidSmall" Large="Templates/Borg/BorgShipPyramid/BorgShipPyramidLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationAmoeba"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassAmoebaColonizationTitle</Title>
+      <Description>%ShipClassAmoebaColonizationDescription</Description>
+      <Icon Small="Templates/Ferengi/FerengiShipColony/FerengiShipColonySmall" Large="Templates/Ferengi/FerengiShipColony/FerengiShipColonyLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationResistance"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassResistanceColonizationTitle</Title>
+      <Description>%ShipClassResistanceColonizationDescription</Description>
+      <Icon Small="Templates/Breen/BreenShipDD/BreenShipDDSmall" Large="Templates/Breen/BreenShipDD/BreenShipDDLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationAutomaton"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassAutomatonColonizationTitle</Title>
+      <Description>%ShipClassAutomatonColonizationDescription</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Automaton/ShipClassColonizationAutomatonSmall" Large="Gui/DynamicBitmaps/Ships/Automaton/ShipClassColonizationAutomatonLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  <Hull Name="ShipClassColonizationPirates"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassPiratesColonizationTitle</Title>
+      <Description>%ShipClassPiratesColonizationDescription</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Pirates/ShipClassColonizationPiratesSmall" Large="Gui/DynamicBitmaps/Ships/Pirates/ShipClassColonizationPiratesLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+  
+<!-- EVACUATION -->  
+  <Hull Name="ShipClassEvacuationResistance"
+      Cost="25"
+      MaxHealth="450" MaxWeight="80"
+      Speed="0" FreeSpeed="0" CommandPoint="1">
+    <ShipSize>ShipSizeSmall</ShipSize>
+	<Variation>Colonization</Variation>
+    <Descriptors>ShipClassColonization</Descriptors>
+    <Gui>
+      <Title>%ShipClassResistanceEvacuationTitle</Title>
+      <Description>%ShipClassResistanceEvacuationDescription</Description>
+      <Icon Small="Gui/DynamicBitmaps/Ships/Resistance/ShipClassEvacuationResistanceSmall" Large="Gui/DynamicBitmaps/Ships/Resistance/ShipClassEvacuationResistanceLarge"/>
+      <CharCode>0</CharCode>
+    </Gui>
+  </Hull>
+
+</Datatable>

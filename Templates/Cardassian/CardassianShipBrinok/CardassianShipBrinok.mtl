@@ -1,0 +1,90 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Material.000001_NONE.003
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor01A_glow.jpg
+map_d CardGalor01A_glow.jpg
+
+newmtl Material.00190d.003
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor06_glow.jpg
+map_d CardGalor06_glow.jpg
+
+newmtl Material.0019b3.003
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor04_glow.jpg
+map_d CardGalor04_glow.jpg
+
+newmtl Material.048
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor01A_glow.jpg
+map_d CardGalor01A_glow.jpg
+
+newmtl Material.051
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor02_glow.jpg
+map_d CardGalor02_glow.jpg
+
+newmtl Material.053
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.476471 0.325490 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor03_glow.jpg
+map_d CardGalor03_glow.jpg
+
+newmtl Material.058
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor05_glow.jpg
+map_d CardGalor05_glow.jpg
+
+newmtl Material.062
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd CardGalor01_glow.jpg
+map_d CardGalor01_glow.jpg

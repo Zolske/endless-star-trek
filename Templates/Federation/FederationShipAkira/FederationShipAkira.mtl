@@ -1,0 +1,68 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Material.000001
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Akira_B_Glow.jpg
+map_d F_Akira_B_Glow.jpg
+
+newmtl Material.00021b
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Akira_A_Glow.jpg
+map_d F_Akira_A_Glow.jpg
+
+newmtl Material.000728
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Akira_C_Glow.jpg
+map_d F_Akira_C_Glow.jpg
+
+newmtl Material.0008ca
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Akira_C_Glow.jpg
+map_d F_Akira_C_Glow.jpg
+
+newmtl Material.000b27
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Akira_B_Glow.jpg
+map_d F_Akira_B_Glow.jpg
+
+newmtl Material.000da6
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376470 0.376470 0.376470
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F_Akira_C_Glow.jpg
+map_d F_Akira_C_Glow.jpg

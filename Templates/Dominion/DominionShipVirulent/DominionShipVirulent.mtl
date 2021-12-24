@@ -1,0 +1,112 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.301176 0.301176 0.301176
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wing_glow.jpg
+map_d wing_glow.jpg
+
+newmtl Material.000045
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.301176 0.301176 0.301176
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_glow.jpg
+map_d body_glow.jpg
+
+newmtl Material.0000e1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd front_glow.jpg
+map_d front_glow.jpg
+
+newmtl Material.0000fd
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd smalwing_glow.jpg
+map_d smalwing_glow.jpg
+
+newmtl Material.00018f
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc1_glow.jpg
+map_d misc1_glow.jpg
+
+newmtl Material.0001e5
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cover_glow.jpg
+map_d cover_glow.jpg
+
+newmtl Material.000231
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.301176 0.301176 0.301176
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hive_glow.jpg
+map_d hive_glow.jpg
+
+newmtl Material.0002e9
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hivet_glow.jpg
+map_d hivet_glow.jpg
+
+newmtl Material.000332
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nacelle1_glow.jpg
+map_d nacelle1_glow.jpg
+
+newmtl Material.000404
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.301176 0.301176 0.301176
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd glow_glow.jpg
+map_d glow_glow.jpg

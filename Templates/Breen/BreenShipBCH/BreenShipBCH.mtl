@@ -1,0 +1,134 @@
+# Blender MTL File: 'None'
+# Material Count: 12
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bridge_glow.jpg
+map_d bridge_glow.jpg
+
+newmtl Material.000049
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nose_glow.jpg
+map_d nose_glow.jpg
+
+newmtl Material.0002d3
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd maint_glow.jpg
+map_d maint_glow.jpg
+
+newmtl Material.0003fc
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc1_glow.jpg
+map_d misc1_glow.jpg
+
+newmtl Material.0005b8
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc3_glow.jpg
+map_d misc3_glow.jpg
+
+newmtl Material.00087c
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd side_glow.jpg
+map_d side_glow.jpg
+
+newmtl Material.0008f6
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd module_glow.jpg
+map_d module_glow.jpg
+
+newmtl Material.000bf0
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd misc2_glow.jpg
+map_d misc2_glow.jpg
+
+newmtl Material.000d78
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bacmod_glow.jpg
+map_d bacmod_glow.jpg
+
+newmtl Material.000dec
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd navdef_glow.jpg
+map_d navdef_glow.jpg
+
+newmtl Material.000e01
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bmod_glow.jpg
+map_d bmod_glow.jpg
+
+newmtl Material.000f1b
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd win_glow.jpg
+map_d win_glow.jpg

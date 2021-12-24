@@ -1,0 +1,102 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl Material.0005c3.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor2_glow.jpg
+
+newmtl Material.0008bf.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor4_glow.jpg
+
+newmtl Material.000b6a.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor1_glow.jpg
+
+newmtl Material.000e92.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor4_glow.jpg
+
+newmtl Material.000fe3.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor3_glow.jpg
+
+newmtl Material.0010c5.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor2_glow.jpg
+
+newmtl Material.026
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor3_glow.jpg
+
+newmtl Material.031
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor2_glow.jpg
+
+newmtl Material.033
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor4_glow.jpg
+
+newmtl Material.035
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.327680 0.327680 0.327680
+Ks 0.449019 0.449019 0.449019
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ..\CardassianShipGalor\galor1_glow.jpg

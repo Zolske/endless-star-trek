@@ -1,0 +1,90 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug1_glow.jpg
+map_d bug1_glow.jpg
+
+newmtl Material.000410
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug2_glow.jpg
+map_d bug2_glow.jpg
+
+newmtl Material.000a4f
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug2_glow.jpg
+map_d bug2_glow.jpg
+
+newmtl Material.000ae1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug2_glow.jpg
+map_d bug2_glow.jpg
+
+newmtl Material.000b5f
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug3_glow.jpg
+map_d bug3_glow.jpg
+
+newmtl Material.000bb1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug1_glow.jpg
+map_d bug1_glow.jpg
+
+newmtl Material.000c55
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug3_glow.jpg
+map_d bug3_glow.jpg
+
+newmtl Material.000d13
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bug2_glow.jpg
+map_d bug2_glow.jpg

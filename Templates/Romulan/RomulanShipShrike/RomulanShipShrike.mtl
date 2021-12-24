@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.240941 0.240941 0.240941
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd R_Raptor_C_Glow.jpg
+map_d R_Raptor_C_Glow.jpg
+
+newmtl Material.0002f5
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.240941 0.240941 0.240941
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd R_TNG_SHRIKE_A_Glow.jpg
+map_d R_TNG_SHRIKE_A_Glow.jpg
+
+newmtl Material.00043d
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.240941 0.240941 0.240941
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd R_TNG_SHRIKE_B_Glow.jpg
+map_d R_TNG_SHRIKE_B_Glow.jpg

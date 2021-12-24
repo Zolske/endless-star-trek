@@ -1,0 +1,32 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Material.000400
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.026843 0.074214 0.023686
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hutet_2_glow.jpg
+
+newmtl Material.0004ae
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.035792 0.025790 0.073162
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hutet_3_glow.jpg
+
+newmtl Material.005
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.072109 0.026318 0.026318
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hutet_1_glow.jpg

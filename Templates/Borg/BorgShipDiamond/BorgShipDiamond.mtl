@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BorgDiamond2_glow.jpg
+map_d BorgDiamond2_glow.jpg
+
+newmtl Material.0000ec
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BorgDiamond3_glow.jpg
+map_d BorgDiamond3_glow.jpg
+
+newmtl Material.0001ea
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BorgDiamond1_glow.jpg
+map_d BorgDiamond1_glow.jpg

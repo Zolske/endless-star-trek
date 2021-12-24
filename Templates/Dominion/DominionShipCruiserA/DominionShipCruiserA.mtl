@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material.000001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd dcru1_glow.jpg
+map_d dcru1_glow.jpg
+
+newmtl Material.000530
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd dcru2_glow.jpg
+map_d dcru2_glow.jpg

@@ -1,0 +1,79 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Material.000001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tact-2.jpg
+map_d tact-2.jpg
+
+newmtl Material.00011d
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hull_glow.jpg
+map_d hull_glow.jpg
+
+newmtl Material.000237
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hull_glow.jpg
+map_d hull_glow.jpg
+
+newmtl Material.000350
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hull_glow.jpg
+map_d hull_glow.jpg
+
+newmtl Material.00046a
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hull_glow.jpg
+map_d hull_glow.jpg
+
+newmtl Material.000583
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hull_glow.jpg
+map_d hull_glow.jpg
+
+newmtl Material.002
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hull_glow.jpg
+map_d hull_glow.jpg
