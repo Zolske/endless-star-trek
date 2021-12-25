@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GenerationSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GalaxyShape>GalaxyDisk</GalaxyShape>
-  <GalaxySize>GalaxySizeTiny</GalaxySize>
-  <EmpiresNumber>2</EmpiresNumber>
+  <GalaxyShape>GalaxySpiral8</GalaxyShape>
+  <GalaxySize>GalaxySizeMedium</GalaxySize>
+  <EmpiresNumber>8</EmpiresNumber>
   <GalaxyAge>GalaxyAgeNormal</GalaxyAge>
   <StarPopulationsBalancing>BalancedAverage</StarPopulationsBalancing>
   <GalaxyDensity>GalaxyDensityMedium</GalaxyDensity>
@@ -15,15 +15,61 @@
   <ResourceRepartitionFactor>ResourceRepartitionFactorNormal</ResourceRepartitionFactor>
   <HomeGeneration>
     <Empire>
-      <Trait Name="AffinityAmoeba" />
-      <Trait Name="TraitTechT01" />
+      <Trait Name="AffinityTerran" />
+      <Trait Name="TraitTechA02" />
+      <Trait Name="TraitEconomy01Norm1" />
+      <Trait Name="TraitAlignmentEvil" />
+      <Trait Name="TraitEconomy09Norm1" />
+      <Trait Name="TraitFleet04Norm2" />
+      <Trait Name="TraitDefense01Norm2" />
+      <Trait Name="TraitHero01Alt1" />
+      <Trait Name="TraitFleet09Norm2" />
+    </Empire>
+    <Empire>
+      <Trait Name="AffinityEmperor" />
+      <Trait Name="TraitTechA02" />
+      <Trait Name="TraitEconomy01Norm1" />
+      <Trait Name="TraitAlignmentEvil" />
+      <Trait Name="TraitEconomy09Norm1" />
+      <Trait Name="TraitFleet04Norm2" />
+      <Trait Name="TraitDefense01Norm2" />
+      <Trait Name="TraitHero01Alt1" />
+    </Empire>
+    <Empire>
+      <Trait Name="AffinitySwarm" />
+      <Trait Name="TraitTechE01" />
+      <Trait Name="TraitTechG02" />
+      <Trait Name="TraitAlignmentEvil" />
+      <Trait Name="TraitBuilding02Norm2" />
+      <Trait Name="TraitSpaceBattle07Norm2" />
+      <Trait Name="TraitFleet02Norm2" />
+      <Trait Name="TraitPopulation04Norm1" />
+      <Trait Name="TraitDiplomacy04Norm1" />
+    </Empire>
+    <Empire>
+      <Trait Name="AffinitySophon" />
+      <Trait Name="TraitTechA01" />
+      <Trait Name="TraitTechA03" />
+      <Trait Name="TraitTechA04" />
       <Trait Name="TraitAlignmentGood" />
-      <Trait Name="TraitDiplomacy01Norm2" />
-      <Trait Name="TraitDiplomacy02Norm2" />
-      <Trait Name="TraitDiplomacy03Norm1" />
-      <Trait Name="TraitFleet06Norm2" />
-      <Trait Name="TraitSpaceBattle05Norm2" />
-      <Trait Name="TraitAnomaly03Norm1" />
+      <Trait Name="TraitScience01Norm3" />
+      <Trait Name="TraitFleet01Norm2" />
+      <Trait Name="TraitFleet07Norm1" />
+      <Trait Name="TraitFleet08Norm2" />
+      <Trait Name="TraitDefense01Alt2" />
+      <Trait Name="TraitBuilding01Alt1" />
+    </Empire>
+    <Empire>
+      <Trait Name="AffinityHissho" />
+      <Trait Name="TraitTechG01" />
+      <Trait Name="TraitAlignmentEvil" />
+      <Trait Name="TraitAnomaly06Norm1" />
+      <Trait Name="TraitDefense04Norm2" />
+      <Trait Name="TraitSpaceBattle02Norm3" />
+      <Trait Name="TraitSpaceBattle03Norm3" />
+      <Trait Name="TraitBuilding03Norm2" />
+      <Trait Name="TraitHero04Norm2" />
+      <Trait Name="TraitScience01Alt2" />
     </Empire>
     <Empire>
       <Trait Name="AffinitySower" />
@@ -37,7 +83,33 @@
       <Trait Name="TraitSpaceBattle01Norm1" />
       <Trait Name="TraitFleet01Alt1" />
       <Trait Name="TraitPopulation03Norm1" />
-      <Trait Name="TraitRandomFaction" />
+    </Empire>
+    <Empire>
+      <Trait Name="AffinityAmoeba" />
+      <Trait Name="TraitTechT01" />
+      <Trait Name="TraitAlignmentGood" />
+      <Trait Name="TraitDiplomacy01Norm2" />
+      <Trait Name="TraitDiplomacy02Norm2" />
+      <Trait Name="TraitDiplomacy03Norm1" />
+      <Trait Name="TraitFleet06Norm2" />
+      <Trait Name="TraitSpaceBattle05Norm2" />
+      <Trait Name="TraitAnomaly03Norm1" />
+    </Empire>
+    <Empire>
+      <Trait Name="AffinityHoratio" />
+      <Trait Name="TraitTechE01" />
+      <Trait Name="TraitTechT01" />
+      <Trait Name="TraitAlignmentNeutral" />
+      <Trait Name="TraitDefense03Norm2" />
+      <Trait Name="TraitPopulation01Norm3" />
+      <Trait Name="TraitPopulation04Norm2" />
+      <Trait Name="TraitHero02Norm2" />
+      <Trait Name="TraitBuilding02Alt2" />
+      <Trait Name="TraitHeroForceAdministrator" />
+      <Trait Name="TraitHeroForceAdventurer" />
+      <Trait Name="TraitHeroForceCorporate" />
+      <Trait Name="TraitHeroForceCommander" />
+      <Trait Name="TraitHeroForcePilot" />
     </Empire>
   </HomeGeneration>
 </GenerationSettings>
