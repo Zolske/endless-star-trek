@@ -23,6 +23,7 @@
   <Thumbnail>Gui/Thumbnail-03.jpg</Thumbnail>
   <Thumbnail>Gui/Thumbnail-04.jpg</Thumbnail>
   <Thumbnail>Gui/Thumbnail-05.jpg</Thumbnail>
+  <Thumbnail>Gui/Thumbnail-06.jpg</Thumbnail>
 
   <Gui>
     <Title>%ModName</Title>
